@@ -1,5 +1,5 @@
 ---
-title: Modules overview
+title: Module Development in Microsoft Dynamics 365 Commerce
 description: This article provides an overview of module development in Microsoft Dynamics 365 Commerce, and includes best practices about when and how to extend a module's style or features.
 author: samjarawan
 ms.date: 05/28/2024
@@ -13,13 +13,13 @@ ms.custom:
   - bap-template
 ---
 
-# Modules overview
+# Content, Promo Banner, Header & Script Module Development in Microsoft Dynamics 365 Commerce
 
 [!include [banner](../includes/banner.md)]
 
 This article provides an overview of module development in Microsoft Dynamics 365 Commerce, and includes best practices about when and how to extend a module's style or features.
 
-## Modules in Dynamics 365 Commerce
+## Module Development in Microsoft Dynamics 365 Commerce
 
 In Dynamics 365 Commerce, modules represent the core building blocks that make up an online Commerce page.
 
